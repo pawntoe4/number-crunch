@@ -1,0 +1,166 @@
+.sprite {
+    background-image: url(numbers.png);
+    background-repeat: no-repeat;
+    display: block;
+    background-size:cover;
+
+}
+
+.numbersquare {
+    float:left;
+    width:5% !important;
+    display: block;
+}
+
+.nu-1 {
+    background-image: url(IMAGES/1.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+  
+}
+.nu-2 {
+    background-image: url(IMAGES/2.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+
+.nu-3 {
+    background-image: url(IMAGES/3.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.nu-4 {
+    background-image: url(IMAGES/4.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.nu-5 {
+    background-image: url(IMAGES/5.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+  
+}
+.nu-6 {
+    background-image: url(IMAGES/6.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+
+.nu-7 {
+    background-image: url(IMAGES/7.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.nu-8 {
+    background-image: url(IMAGES/8.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.nu-9 {
+    background-image: url(IMAGES/9.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.nu-0 {
+    background-image: url(IMAGES/0.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+
+.letter-N {
+    background-image: url(IMAGES/letterN.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-U {
+    background-image: url(IMAGES/letterU.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-M {
+    background-image: url(IMAGES/letterM.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-B {
+    background-image: url(IMAGES/letterB.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-E {
+    background-image: url(IMAGES/letterE.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-R {
+    background-image: url(IMAGES/letterR.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+.letter-C {
+    background-image: url(IMAGES/letterC.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+
+.letter-H {
+    background-image: url(IMAGES/letterH.png);
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 100%;
+    background-size:100%;
+}
+
+.transition-in {
+  opacity: 1;
+  transition: opacity 0.1s;
+  -webkit-transition: opacity 0.1s ease-in-out;
+}
+.transition-out {
+  opacity: 0;
+  transition: opacity 1.5s;
+  -webkit-transition: opacity 1.5s ease-in-out;
+}
+
+.hover:hover{
+  opacity: 0.0;
+}
+
+.number-hidden {
+    opacity: 0.0;
+    
+}
